@@ -1,5 +1,5 @@
 ### Hi everyone. My name is Dmitry. I am QA Engineer 👋
-
+[Link to my CV](https://drive.google.com/drive/my-drive)
 <!--
 **DSKravtsov/DSKravtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
