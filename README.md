@@ -1,4 +1,4 @@
-### Hi everyone. My name is Dmitry. I am QA Engineer 👋
+### Hi everyone. My name is Dmitry. I am a QA Engineer 👋
 ### My CV
 [Link to my CV](https://drive.google.com/file/d/1dKURQaU_jILiqTlyD983U9qfL76Rch0G/view?usp=sharing)
 
